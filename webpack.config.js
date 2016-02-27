@@ -1,9 +1,9 @@
 var path = require('path');
    module.exports = {
-       entry: './vector.js',
+       entry: './lib/linSys.js',
        output: {
            path: __dirname,
-           filename: 'bundle.js'
+           filename: 'linSys.js'
        },
        module: {
            loaders: [

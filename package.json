@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "babel-loader": "^6.2.1"
+  },
+  "dependencies": {
+    "decimal": "0.0.2"
   }
 }

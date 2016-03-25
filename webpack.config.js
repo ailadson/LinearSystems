@@ -3,7 +3,7 @@ var path = require('path');
        entry: './lib/linSys.js',
        output: {
            path: __dirname,
-           filename: 'linSys.js'
+           filename: 'bundle.js'
        },
        module: {
            loaders: [
